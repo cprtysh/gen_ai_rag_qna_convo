@@ -13,3 +13,5 @@ langchain-text-splitters
 langchain_huggingface
 sentence_transformers
 langchain_chroma
+chromadb
+sqlite3>=3.35
