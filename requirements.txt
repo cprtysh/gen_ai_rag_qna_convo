@@ -14,4 +14,4 @@ langchain_huggingface
 sentence_transformers
 langchain_chroma
 chromadb
-sqlite3>=3.35
+sqlite3=3.48.0
